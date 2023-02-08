@@ -44,4 +44,6 @@ clear
 elif [ $i = 3 ]; then
 	exit 0
 
+else:
+     echo "Opcion no encontrada"
 fi
