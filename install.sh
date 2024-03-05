@@ -7,7 +7,7 @@ function repos(){
 	chmod +x strap.sh
 	./strap.sh
 	sudo pacman -Sy
-    tools()
+    tools
 }
 
 function tools(){
