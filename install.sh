@@ -1,8 +1,10 @@
 #/bin/bash/
-
+echo "User > Root > sudo install.sh"
+sleep 2
+clear
 echo "Install Blackarch Repository Y/n"
 
-read -p " " opt
+read -p "" opt
 
 clear
 
